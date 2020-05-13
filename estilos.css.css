@@ -1,0 +1,45 @@
+body {
+    background-image: url("https://cdn.hswstatic.com/gif/do-parallel-universe-really-exist.jpg");
+      background-size:auto 100vh;
+       heigth: 100 vh;
+   font-family: Verdana;  
+  }
+  
+  .linksinicio{
+    background-color: white;
+  }
+  .linksinicio ul{
+    display:flex;
+    justify-content:space-around;
+  }
+  .linksinicio li{
+    list-style:none;
+  }
+  a{
+    color:teal;
+    text-decoration: none;
+  }
+  a:hover{
+    text-decoration: underline;
+    text-decoration-color: black;
+  }
+  .site-subtitle,
+  .site-title{
+    text-align: center;
+    color:whitesmoke;
+  }
+  .site-title{
+    font-family: verdana;
+    text-decoration: underline;
+    text-decoration-color: purple;
+    
+  
+  }
+  
+  .site-subtitle{
+    font-family: angular;
+    text-decoration:underline;
+    text-decoration-color: purple;
+  }
+  
+  
